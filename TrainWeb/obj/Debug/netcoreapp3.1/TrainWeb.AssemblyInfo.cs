@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrainWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c97b5c2c52afce67f1e051e3b6dbaeb8d70fd16b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ed88f9041e3a4f3af21410f2ff5c77d959bdb7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrainWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrainWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -20,7 +20,6 @@ D:\2 - myProject\C#\Aps.Net\TrainTemplate\TrainWeb\obj\Debug\netcoreapp3.1\Train
 D:\2 - myProject\C#\Aps.Net\TrainTemplate\TrainWeb\obj\Debug\netcoreapp3.1\TrainWeb.TagHelpers.output.cache
 D:\2 - myProject\C#\Aps.Net\TrainTemplate\TrainWeb\obj\Debug\netcoreapp3.1\TrainWeb.RazorCoreGenerate.cache
 D:\2 - myProject\C#\Aps.Net\TrainTemplate\TrainWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\2 - myProject\C#\Aps.Net\TrainTemplate\TrainWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\2 - myProject\C#\Aps.Net\TrainTemplate\TrainWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 D:\2 - myProject\C#\Aps.Net\TrainTemplate\TrainWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\2 - myProject\C#\Aps.Net\TrainTemplate\TrainWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -39,3 +38,5 @@ D:\2 - myProject\C#\Aps.Net\TrainTemplate\TrainWeb\obj\Debug\netcoreapp3.1\Train
 D:\2 - myProject\C#\Aps.Net\TrainTemplate\TrainWeb\obj\Debug\netcoreapp3.1\TrainWeb.pdb
 D:\2 - myProject\C#\Aps.Net\TrainTemplate\TrainWeb\obj\Debug\netcoreapp3.1\TrainWeb.genruntimeconfig.cache
 D:\2 - myProject\C#\Aps.Net\TrainTemplate\TrainWeb\obj\Debug\netcoreapp3.1\TrainWeb.csproj.Up2Date
+D:\2 - myProject\C#\Aps.Net\TrainTemplate\TrainWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+D:\2 - myProject\C#\Aps.Net\TrainTemplate\TrainWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
