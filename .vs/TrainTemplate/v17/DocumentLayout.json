@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\2 - myProject\\C#\\Aps.Net\\TrainTemplate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83BA69F5-1598-44F0-9327-F02BA80A846E}|TrainWeb\\TrainWeb.csproj|d:\\2 - myproject\\c#\\aps.net\\traintemplate\\trainweb\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{83BA69F5-1598-44F0-9327-F02BA80A846E}|TrainWeb\\TrainWeb.csproj|solutionrelative:trainweb\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83BA69F5-1598-44F0-9327-F02BA80A846E}|TrainWeb\\TrainWeb.csproj|d:\\2 - myproject\\c#\\aps.net\\traintemplate\\trainweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83BA69F5-1598-44F0-9327-F02BA80A846E}|TrainWeb\\TrainWeb.csproj|solutionrelative:trainweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83BA69F5-1598-44F0-9327-F02BA80A846E}|TrainWeb\\TrainWeb.csproj|d:\\2 - myproject\\c#\\aps.net\\traintemplate\\trainweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{83BA69F5-1598-44F0-9327-F02BA80A846E}|TrainWeb\\TrainWeb.csproj|solutionrelative:trainweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{83BA69F5-1598-44F0-9327-F02BA80A846E}|TrainWeb\\TrainWeb.csproj|d:\\2 - myproject\\c#\\aps.net\\traintemplate\\trainweb\\viewcomponents\\articlesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BA69F5-1598-44F0-9327-F02BA80A846E}|TrainWeb\\TrainWeb.csproj|solutionrelative:trainweb\\viewcomponents\\articlesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,40 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Header.cshtml",
-              "DocumentMoniker": "D:\\2 - myProject\\C#\\Aps.Net\\TrainTemplate\\TrainWeb\\Views\\Shared\\_Header.cshtml",
-              "RelativeDocumentMoniker": "TrainWeb\\Views\\Shared\\_Header.cshtml",
-              "ToolTip": "D:\\2 - myProject\\C#\\Aps.Net\\TrainTemplate\\TrainWeb\\Views\\Shared\\_Header.cshtml",
-              "RelativeToolTip": "TrainWeb\\Views\\Shared\\_Header.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T07:02:43.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\2 - myProject\\C#\\Aps.Net\\TrainTemplate\\TrainWeb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TrainWeb\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\2 - myProject\\C#\\Aps.Net\\TrainTemplate\\TrainWeb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TrainWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Title": "ArticlesViewComponent.cs",
+              "DocumentMoniker": "D:\\2 - myProject\\C#\\Aps.Net\\TrainTemplate\\TrainWeb\\ViewComponents\\ArticlesViewComponent.cs",
+              "RelativeDocumentMoniker": "TrainWeb\\ViewComponents\\ArticlesViewComponent.cs",
+              "ToolTip": "D:\\2 - myProject\\C#\\Aps.Net\\TrainTemplate\\TrainWeb\\ViewComponents\\ArticlesViewComponent.cs",
+              "RelativeToolTip": "TrainWeb\\ViewComponents\\ArticlesViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T07:02:20.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\2 - myProject\\C#\\Aps.Net\\TrainTemplate\\TrainWeb\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TrainWeb\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\2 - myProject\\C#\\Aps.Net\\TrainTemplate\\TrainWeb\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TrainWeb\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T06:59:06.08Z",
+              "WhenOpened": "2024-09-25T08:33:36.285Z",
               "EditorCaption": ""
             }
           ]
