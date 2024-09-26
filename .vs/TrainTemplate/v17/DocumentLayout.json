@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\2 - myProject\\C#\\Aps.Net\\TrainTemplate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83BA69F5-1598-44F0-9327-F02BA80A846E}|TrainWeb\\TrainWeb.csproj|d:\\2 - myproject\\c#\\aps.net\\traintemplate\\trainweb\\viewcomponents\\articlesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83BA69F5-1598-44F0-9327-F02BA80A846E}|TrainWeb\\TrainWeb.csproj|solutionrelative:trainweb\\viewcomponents\\articlesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83BA69F5-1598-44F0-9327-F02BA80A846E}|TrainWeb\\TrainWeb.csproj|d:\\2 - myproject\\c#\\aps.net\\traintemplate\\trainweb\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83BA69F5-1598-44F0-9327-F02BA80A846E}|TrainWeb\\TrainWeb.csproj|solutionrelative:trainweb\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BA69F5-1598-44F0-9327-F02BA80A846E}|TrainWeb\\TrainWeb.csproj|d:\\2 - myproject\\c#\\aps.net\\traintemplate\\trainweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BA69F5-1598-44F0-9327-F02BA80A846E}|TrainWeb\\TrainWeb.csproj|solutionrelative:trainweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ArticlesViewComponent.cs",
-              "DocumentMoniker": "D:\\2 - myProject\\C#\\Aps.Net\\TrainTemplate\\TrainWeb\\ViewComponents\\ArticlesViewComponent.cs",
-              "RelativeDocumentMoniker": "TrainWeb\\ViewComponents\\ArticlesViewComponent.cs",
-              "ToolTip": "D:\\2 - myProject\\C#\\Aps.Net\\TrainTemplate\\TrainWeb\\ViewComponents\\ArticlesViewComponent.cs",
-              "RelativeToolTip": "TrainWeb\\ViewComponents\\ArticlesViewComponent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\2 - myProject\\C#\\Aps.Net\\TrainTemplate\\TrainWeb\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "TrainWeb\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\2 - myProject\\C#\\Aps.Net\\TrainTemplate\\TrainWeb\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "TrainWeb\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAArwE8AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T05:09:09.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\2 - myProject\\C#\\Aps.Net\\TrainTemplate\\TrainWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TrainWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\2 - myProject\\C#\\Aps.Net\\TrainTemplate\\TrainWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TrainWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T08:33:36.285Z",
+              "WhenOpened": "2024-09-25T16:25:27.518Z",
               "EditorCaption": ""
             }
           ]
