@@ -1,0 +1,29 @@
+﻿@model Project
+@{
+    ViewData["Title"] = $"{Model.Name}";
+}
+
+<section class="contact-section px-3 py-5 p-md-5">
+    <div class="container">
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Image</th>
+                    <th>Name</th>
+                    <th>Client</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.Id</td>
+                    <td><img width="75" src="~/assets/images/project/@Model.Image" /></td>
+                    <td>@Model.Name</td>
+                    <td>@Model.Client</td>
+                    <td>@Model.Description</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</section>

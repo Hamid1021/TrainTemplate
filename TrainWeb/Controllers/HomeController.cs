@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Collections.Generic;
 using TrainWeb.Models;
@@ -26,6 +27,18 @@ namespace TrainWeb.Controllers
                 Services = new SelectList(_services, "Id", "Name")
             };
             return View(model);
+        }
+
+        public IActionResult ProjectDetait(int id)
+        {
+            var project = ProjectData.ProjectsData.GetProject(id);
+            return View(project);
+        }
+
+        public IActionResult ArticleDetait(int id)
+        {
+            var articel = ArticleData.ArticlesData.GetArticle(id);
+            return View(articel);
         }
 
         [HttpPost]

@@ -11,14 +11,14 @@
                         <img class="card-img-top" src="~/assets/images/blog/@artic.Image" alt="@artic.Title">
                         <div class="card-body">
                             <h5 class="card-title">
-                                <a class="theme-link" href="#">
+                                <a class="theme-link" asp-controller="Home" asp-action="ArticleDetait" asp-route-id="@artic.Id">
                                     @artic.Title
                                 </a>
                             </h5>
                             <p class="card-text">
                                 @artic.Description
                             </p>
-                            <p class="mb-0"><a class="more-link" href="#">ادامه مطلب</a></p>
+                            <p class="mb-0"><a class="more-link" asp-controller="Home" asp-action="ArticleDetait" asp-route-id="@artic.Id">ادامه مطلب</a></p>
                         </div>
                     </div>
                 </div>

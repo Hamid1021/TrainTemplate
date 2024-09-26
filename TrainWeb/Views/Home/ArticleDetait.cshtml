@@ -1,0 +1,26 @@
+﻿@model Article
+@{
+    ViewData["Title"] = "Contact Page";
+}
+<section class="contact-section px-3 py-5 p-md-5">
+    <div class="container">
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Image</th>
+                    <th>Title</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.Id</td>
+                    <td><img width="75" src="~/assets/images/blog/@Model.Image" /></td>
+                    <td>@Model.Title</td>
+                    <td>@Model.Description</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</section>
